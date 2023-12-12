@@ -1,0 +1,1 @@
+xcopy /y ControlWinds.dll "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\ControlWinds"

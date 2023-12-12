@@ -1,0 +1,2 @@
+if not exist "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\ControlWinds" mkdir "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\ControlWinds"
+del /q "F:\SteamLibrary\steamapps\common\Sailwind\BepInEx\plugins\ControlWinds\ControlWinds.dll"
